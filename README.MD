@@ -4,7 +4,7 @@
 
 ## Goal  : The  program solves the issues of selecting a correct driver for a box  with known  volume VB and compiles this both  for linuix and windows boxes 
 
-I wrote this explicitly for FaceBook Users Group DIY Loudpseakers to help them with learning how to  select drivers for any reasoabley simple box design 
+I wrote this explicitly for FaceBook Users Group DIY Loudpseakers to help them with learning how to  select drivers for any reasonable simple box design 
 
 ![DIY Loudspeakers ](https://scontent.flhr3-3.fna.fbcdn.net/v/t39.30808-6/414725097_981066736738966_2685870536076874731_n.jpg?stp=dst-jpg_s960x960&_nc_cat=1&ccb=1-7&_nc_sid=2285d6&_nc_ohc=v_KIGNWEDA0Q7kNvgGoLrF0&_nc_zt=23&_nc_ht=scontent.flhr3-3.fna&_nc_gid=AvKN3ZrPnZhshatjPFGTd8Y&oh=00_AYBCnrho1Y-2KsJb1K5AK-GeTDSunCUCEIMWUUodw8Ye_g&oe=6752A443)
 
